@@ -27,34 +27,34 @@ It is integer valued as it contains two integers 0 and 1 - (0 stands for absence
 
 ## 🛠️ Project Components:
 
-1.Data Collection and Cleaning:
-- Data Sources: Gather relevant data from various sources like medical records, clinical trials, or public health databases.
-- Data Cleaning:
+1.Data Collection and Cleaning :
+- Data Sources : Gather relevant data from various sources like medical records, clinical trials, or public health databases.
+- Data Cleaning :
   Handle missing values (imputation or removal).
   Address outliers (capping, flooring, or removal).
   Correct inconsistencies and errors.
-2.Exploratory Data Analysis:
-- Univariate Analysis:
-  Statistical Summary: Calculate measures like mean, median, mode, standard deviation, quartiles, etc.
-  Data Visualization: Use histograms, box plots, and density plots to visualize the distribution of each feature.
-- Bivariate Analysis:
-  Correlation Analysis: Calculate correlation coefficients (Pearson, Spearman) to assess the relationship between features.
-  Cross-Tabulations: Analyze categorical variables to identify associations.
+2.Exploratory Data Analysis :
+- Univariate Analysis :
+  Statistical Summary : Calculate measures like mean, median, mode, standard deviation, quartiles, etc.
+  Data Visualization : Use histograms, box plots, and density plots to visualize the distribution of each feature.
+- Bivariate Analysis :
+  Correlation Analysis : Calculate correlation coefficients (Pearson, Spearman) to assess the relationship between features.
+  Cross-Tabulations : Analyze categorical variables to identify associations.
   Data Visualization: Use scatter plots, bar charts, and heatmaps to visualize relationships.
-- Multivariate Analysis:
-  Principal Component Analysis (PCA): Reduce the dimensionality of the dataset to identify the most important features.
-  Cluster Analysis: Group similar patients based on their characteristics to identify distinct subgroups.
+- Multivariate Analysis :
+  Principal Component Analysis (PCA) : Reduce the dimensionality of the dataset to identify the most important features.
+  Cluster Analysis : Group similar patients based on their characteristics to identify distinct subgroups.
 3.Data Visualization:
-- Visualize Data Distributions: Use histograms, box plots, and density plots.
-- Explore Relationships: Use scatter plots, line charts, and correlation matrices.
-- Identify Outliers: Use box plots and scatter plots.
+- Visualize Data Distributions : Use histograms, box plots, and density plots.
+- Explore Relationships : Use scatter plots, line charts, and correlation matrices.
+- Identify Outliers : Use box plots and scatter plots.
 - Visualize Categorical Data: Use bar charts.
 
 ##  🤖 Technologies Used:
 
-Pandas & NumPy: For data manipulation and analysis.
-Matplotlib and Seaborn: For data visualization
-EDA: - Understanding data: Get to know your data, its structure, and its variables.
+- Pandas & NumPy: For data manipulation and analysis.
+- Matplotlib and Seaborn: For data visualization
+- EDA: - Understanding data: Get to know your data, its structure, and its variables.
      - Finding patterns: Identify trends, relationships, and anomalies.
      - Preparing for modeling: Clean data, handle missing values, and select relevant features.
      - Making informed decisions: Guide further analysis, model building, and insights.
