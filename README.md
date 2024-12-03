@@ -38,12 +38,12 @@ It is integer valued as it contains two integers 0 and 1 - (0 stands for absence
 2.Exploratory Data Analysis :
  ---
 - Univariate Analysis :
-  Statistical Summary : Calculate measures like mean, median, mode, standard deviation, quartiles, etc.
-  Data Visualization : Use histograms, box plots, and density plots to visualize the distribution of each feature.
+- Statistical Summary : Calculate measures like mean, median, mode, standard deviation, quartiles, etc.
+- Data Visualization : Use histograms, box plots, and density plots to visualize the distribution of each feature.
 - Bivariate Analysis :
-  Correlation Analysis : Calculate correlation coefficients (Pearson, Spearman) to assess the relationship between features.
-  Cross-Tabulations : Analyze categorical variables to identify associations.
-  Data Visualization: Use scatter plots, bar charts, and heatmaps to visualize relationships.
+- Correlation Analysis : Calculate correlation coefficients (Pearson, Spearman) to assess the relationship between features.
+-  Cross-Tabulations : Analyze categorical variables to identify associations.
+- Data Visualization: Use scatter plots, bar charts, and heatmaps to visualize relationships.
 - Multivariate Analysis :
   Principal Component Analysis (PCA) : Reduce the dimensionality of the dataset to identify the most important features.
   Cluster Analysis : Group similar patients based on their characteristics to identify distinct subgroups.
