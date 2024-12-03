@@ -27,7 +27,7 @@ It is integer valued as it contains two integers 0 and 1 - (0 stands for absence
 
 ## 🛠️ Project Components:
 
-1.**Data Collection and Cleaning :**
+1.Data Collection and Cleaning :
 ---
 - Data Sources : Gather relevant data from various sources like medical records, clinical trials, or public health databases.
 - Data Cleaning :
@@ -35,7 +35,7 @@ It is integer valued as it contains two integers 0 and 1 - (0 stands for absence
   Address outliers (capping, flooring, or removal).
   Correct inconsistencies and errors
  ---
-2.**Exploratory Data Analysis :**
+2.Exploratory Data Analysis :
  ---
 - Univariate Analysis :
   Statistical Summary : Calculate measures like mean, median, mode, standard deviation, quartiles, etc.
@@ -48,7 +48,7 @@ It is integer valued as it contains two integers 0 and 1 - (0 stands for absence
   Principal Component Analysis (PCA) : Reduce the dimensionality of the dataset to identify the most important features.
   Cluster Analysis : Group similar patients based on their characteristics to identify distinct subgroups.
  ---
-3.**Data Visualization :**
+3.Data Visualization :
  ---
 - Visualize Data Distributions : Use histograms, box plots, and density plots.
 - Explore Relationships : Use scatter plots, line charts, and correlation matrices.
