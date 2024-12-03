@@ -27,13 +27,13 @@ It is integer valued as it contains two integers 0 and 1 - (0 stands for absence
 
 ## 🛠️ Project Components:
 
-##Data Collection and Cleaning :
+1.**Data Collection and Cleaning :**
 - Data Sources : Gather relevant data from various sources like medical records, clinical trials, or public health databases.
 - Data Cleaning :
   Handle missing values (imputation or removal).
   Address outliers (capping, flooring, or removal).
   Correct inconsistencies and errors.
-##Exploratory Data Analysis :
+2.**Exploratory Data Analysis :**
 - Univariate Analysis :
   Statistical Summary : Calculate measures like mean, median, mode, standard deviation, quartiles, etc.
   Data Visualization : Use histograms, box plots, and density plots to visualize the distribution of each feature.
@@ -44,7 +44,7 @@ It is integer valued as it contains two integers 0 and 1 - (0 stands for absence
 - Multivariate Analysis :
   Principal Component Analysis (PCA) : Reduce the dimensionality of the dataset to identify the most important features.
   Cluster Analysis : Group similar patients based on their characteristics to identify distinct subgroups.
-##Data Visualization:
+3.**Data Visualization :**
 - Visualize Data Distributions : Use histograms, box plots, and density plots.
 - Explore Relationships : Use scatter plots, line charts, and correlation matrices.
 - Identify Outliers : Use box plots and scatter plots.
